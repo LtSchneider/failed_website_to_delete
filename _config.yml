@@ -21,7 +21,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'Home', link: ''}
   - {name: 'About', link: '/about'}
   - {name: 'Publications', link: '/list-of-publications'}
   - {name: 'Research', link: '/research'}

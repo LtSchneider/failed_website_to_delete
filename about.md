@@ -4,7 +4,7 @@ title: About
 permalink: about/
 ---
 
-<img src="/home/assets/img/about-img.JPG" style="width:400px !important; display:block; margin-left:auto; margin-right:auto">
+<img src="/assets/img/about-img.JPG" style="width:400px !important; display:block; margin-left:auto; margin-right:auto">
 
 Luisa T. Schneider is a sociocultural anthropologist and research consultant with over nine years of experience working on issues of gender, intimacy, violence and law.
 
@@ -22,7 +22,7 @@ Luisa T. Schneider holds degrees in Cultural and Social Anthropology, Internatio
 
 
 {% assign WIDTH="180" %}
-{% assign DIR="/home/assets/img/logos/" %}
+{% assign DIR="/assets/img/logos/" %}
 
 | <a href="https://www.isca.ox.ac.uk/"> ![oxford]({{ DIR }}oxfordlogo.png){: width="{{ WIDTH }}px" display="block" float="left"} </a> | <a href="https://www.freie-journalistenschule.de/"> ![freie]({{ DIR }}/fjslogo.png){:  width="{{ WIDTH }}px" display="block" float="left"} </a> | <a href="https://www.univie.ac.at/en/"> ![vienna]({{ DIR }}uniwienlogo.png){: width="{{ WIDTH }}px" display="block" float="left"} </a> | <a href="https://ie.univie.ac.at/en/"> ![ie_neg]({{ DIR }}ie-logo.jpg){:  width="{{ WIDTH }}px" display="block" float="left"} </a> |
 | <a href="https://www.coursera.org/"> ![coursera]({{ DIR }}logocoursera.PNG){: width="{{ WIDTH }}px" display="block" float="left"} </a> | <a href="http://www.partners4prevention.org/"> ![p4p]({{ DIR }}p4plogo.png){: width="{{ WIDTH }}px" display="block" float="left"} </a> | <a href="http://www.afghanistan-vienna.org/"> ![embassy]({{ DIR }}embassylogo.png){: width="{{ WIDTH }}px" display="block" float="left"} </a> | <a href="https://www.thishumanworld.com/"> ![thw]({{ DIR }}thwlogo.jpg){: width="{{ WIDTH }}px" display="block" float="left"} </a> |
