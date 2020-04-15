@@ -32,7 +32,7 @@ comments: false
 - **Schneider, L.** (2019). Teeth and Tongue Jammed Together, violence in relationships and its mediation in Freetown, Sierra Leone. DPhil thesis. *Oxford University* (embargoed).
 
 ### Interviews (TV, journals, radio)
-- Nagel, Juliane and **Schneider, Luisa** (2020). "Wohnungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemic. *YouTube*, Apr 6, 2020 URL: [YouTube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
+- Nagel, Juliane and **Schneider, Luisa** (2020). Wohnungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemic. *YouTube*, Apr 6, 2020 URL: [YouTube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
 - Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28 URL: [mdr.de] (https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html).
 - Brähler, Barbara (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. Radio. *MDR SACHSEN – das Sachsenradio*, April 2, 2020, 16:50  URL: [MDR/Leipzig](https://www.mdr.de/nachrichten/audio/audio-1361926.html)
  - Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig. based on an interview with **Luisa Schneider** and Tom Hübner. Radio. *MDR AKTUELL*, April 3, 2020.
