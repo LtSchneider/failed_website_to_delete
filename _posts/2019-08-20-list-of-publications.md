@@ -22,7 +22,7 @@ comments: false
 
 
 ### Specialist and Online Publications
-- **Schneider, L.** (2020). Imagine You Were Me. On How COVID-19 Affects Vulnerable Groups. *Culture in Quarantine* URL: [cultureinquarantine.com](http://cultureinquarantine.co/archives/imagine-you-were-me-on-how-covid-19-affects-vulnerable-groups/)
+- **Schneider, L.** (2020). Imagine You Were Me. On How COVID-19 Affects Vulnerable Groups. *Culture in Quarantine* URL: [cultureinquarantine.com] (http://cultureinquarantine.co/archives/imagine-you-were-me-on-how-covid-19-affects-vulnerable-groups/).
 - **Schneider, L.** (2019). Sierra Leone takes welcome leap on rape: but next steps are crucial. *The Conversation*, published February 21, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leone-takes-welcome-leap-on-rape-but-next-steps-are-crucial-112010).
 - **Schneider, L.** (2019). [Sierra Leone's laws to protect women have unintended consequences](/abstracts/sierra-leones-laws-to-protect-women). *The Conversation*, published January 23, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leones-laws-to-protect-women-have-unintended-consequences-109815).
 - **Schneider, L.** (2019). [Why Sierra Leonean women don’t feel protected by domestic violence laws](/abstracts/why-sierra-leonean-women). *The Conversation*, published January 9, 2019. URL: [theconversation.com](https://theconversation.com/why-sierra-leonean-women-dont-feel-protected-by-domestic-violence-laws-109436).
@@ -32,8 +32,8 @@ comments: false
 - **Schneider, L.** (2019). Teeth and Tongue Jammed Together, violence in relationships and its mediation in Freetown, Sierra Leone. DPhil thesis. *Oxford University* (embargoed).
 
 ### Interviews (TV, journals, radio)
-- Nagel, Juliane and **Schneider, Luisa** (2020). linXXnet talXX #6: "Wohunungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemia. *linXXnet Leipzig*, Apr 6, 2020 URL: [Youtube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
-- Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28 URL [mdr.de](https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html).
+- Nagel, Juliane and **Schneider, Luisa** (2020). linXXnet talXX #6: "Wohunungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemia. *linXXnet Leipzig*, Apr 6, 2020 URL: [YouTube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
+- Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28 URL: [mdr.de] (https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html).
 - Brähler, Barbara (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. Radio. *MDR SACHSEN – das Sachsenradio*, April 2, 2020, 16:50  URL: [MDR/Leipzig](https://www.mdr.de/nachrichten/audio/audio-1361926.html)
  - Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig. based on an interview with **Luisa Schneider** and Tom Hübner. Radio. *MDR AKTUELL*, April 3, 2020.
 - Kühnke, Roland (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. TV. *MDR Sachsenspiegel* April 3, 2020, 19.00-19.30 URL: [MDR Sachsenspiegel](https://www.mdr.de/sachsenspiegel/video-397418_zc-61a459d2_zs-4ccc2d21.html).
@@ -41,7 +41,7 @@ comments: false
 - Zoeller, Walter (2020). Bei den Menschen ganz unten. Article about **Luisa Schneider's** research with people without housing. *Mitteldeutsche Zeitung*, January 15, 2020 in print.
 - Samboma, Julian Lahai (2019). What is behind the `rape' epidemic?. Interview with **Dr. Luisa T. Schneider** and Alimatu Dimonekeneh on sexual violence in Sierra Leone. *New African*, May Issue 2019, page 60--61. URL: [New African.org](https://issuu.com/icpublications4/docs/na0519lr/).
 - Odenthal, Frank (2019). Well meant, not always well done. Interview with **Dr. Schneider** on sexual violence laws in Sierra Leone. Published, Febuary 26, 2019. URL: [fairplanet.org](https://www.fairplanet.org/story/well-meant-not-always-well-done/).
-- Wolff, Jurgen B. (2019). Ein Hort der guten Taten. Die Leipziger Bahnhofsmission with report about **Dr. Schneider's** research. *Leipziger Blätter*. vol 75. pp. 54-57. URL: [kulturstiftung.de](https://www.kulturstiftungleipzig.de/heftarchiv/}{kulturstiftungleipzig.de).
+- Wolff, Jurgen B. (2019). Ein Hort der guten Taten. Die Leipziger Bahnhofsmission with report about **Dr. Schneider's** research. *Leipziger Blätter*. vol 75. pp. 54-57. URL: [kulturstiftung.de](https://www.kulturstiftungleipzig.de/heftarchiv/).
 - Samboma, Julian Lahai (2019). What is behind the `rape' epidemic?. Interview with **Dr. Luisa T. Schneider** and Alimatu Dimonekeneh on sexual violence in Sierra Leone. *New African*, May Issue 2019, page 60--61. URL: [New African.org](https://issuu.com/icpublications4/docs/na0519lr/).
 
 
