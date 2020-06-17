@@ -16,14 +16,19 @@ comments: false
 - **Schneider, L.** (2016). [The ogbanje who wanted to stay: The occult, belonging, family and therapy in Sierra Leone](/abstracts/ogbanje). *Ethnography* 18(2), 133--152. DOI: [10.1177/1466138116673381](https://doi.org/10.1177/1466138116673381).
 - **Schneider, L.** (2015). [Secret Societies in Sierra Leone](/abstracts/secret-societies). *Paradigmata. Zeitschrift für Menschen und Diskurse* No.12, Frühling 2015. 30--34.
 
-### Reviews (peer-reviewed)
-- **Schneider, L.** (2018). Review Scubla, L. Giving life, giving death: psychoanalysis, anthropology, philosophy (Studies in Violence, Mimesis and Culture, translated from the French by M.B. DeBevoise). East Lansing (Michigan): Michigan State University Press 2016. *Journal of the Anthropological Society of Oxford, JASO-Online*. (1), 122--125. URL: [www.anthro.ox.ac.uk/jaso/current-issue](https://www.anthro.ox.ac.uk/jaso/current-issue).
-- **Schneider, L.** (2016). [Review. Zeitlyn, D., Just, R., Excursions in realist anthropology: a merological approach, Newcastle: Cambridge Scholars Publishing 2014, x, 156 pp. *Journal of the Anthropological Society of Oxford*](/abstracts/review-just). *JASO-Online*, VIII(1), 119--123. URL: [www.anthro.ox.ac.uk/jasoonline](https://www.anthro.ox.ac.uk/jasoonline-2016#collapse392711).
+### Reports
 
+- **Schneider, L.** (2019) Intimität ohne Privatsphäre – das Leben wohnungsloser Menschen in Deutschland. Beiträge des MPI für ethnologische Forschung im Jahrbuch der Max-Planck-Gesellschaft, URL:[Max Planck Institut für ethnologische Forschung] (https://www.eth.mpg.de/5479164/research_report_14311186?c=2923387).
+
+ ### Reviews (peer-reviewed)
+- **Schneider, L.** (2018). Review Scubla, L. Giving life, giving death: psychoanalysis, anthropology, philosophy (Studies in Violence, Mimesis and Culture, translated from the French by M.B. DeBevoise). East Lansing (Michigan): Michigan State University Press 2016. *Journal of the Anthropological Society of Oxford, JASO-Online*. (1), 122--125. URL: [www.anthro.ox.ac.uk/jaso/current-issue](https://www.anthro.ox.ac.uk/jaso/current-issue).
+- **Schneider, L.** (2016). [Review. Zeitlyn, D., Just, R., Excursions in realist anthropology: a merological approach, Newcastle: Cambridge Scholars Publishing 2014, x, 156 pp. *Journal of the Anthropological Society of Oxford*](/abstracts/review-just). *JASO-Online*, VIII(1), 119--123. URL: [www.anthro.ox.ac.uk/jasoonline](https://www.anthro.ox.ac.uk/jasoonline-2016#collapse392711)
 
 ### Specialist and Online Publications
-- **Schneider, L.** (2020). Imagine You Were Me. On How COVID-19 Affects Vulnerable Groups. *Culture in Quarantine* URL: [cultureinquarantine.com] (http://cultureinquarantine.co/archives/imagine-you-were-me-on-how-covid-19-affects-vulnerable-groups/).
-- **Schneider, L.** (2019). Sierra Leone takes welcome leap on rape: but next steps are crucial. *The Conversation*, published February 21, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leone-takes-welcome-leap-on-rape-but-next-steps-are-crucial-112010).
+- **Schneider, L.** (2020). They call it social physical distancing: elders, unhoused people and grassroots support in
+Leipzig, Germany. Collecting COVID-19. URL: [Collecting covid-19] (https://anthrocovid.com/2-2/contributions-from-germany/)
+- **Schneider, L.** (2020). Imagine You Were Me. On How COVID-19 Affects Vulnerable Groups. *Culture in Quarantine* URL: [cultureinquarantine.com](http://cultureinquarantine.co/archives/imagine-you-were-me-on-how-covid-19-affects-vulnerable-groups/)
+- **Schneider, L.** (2019). Sierra Leone takes welcome leap on rape: but next steps are crucial. *The Conversation*, published February 21, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leone-takes-welcome-leap-on-rape-but-next-steps-are-crucial-112010)
 - **Schneider, L.** (2019). [Sierra Leone's laws to protect women have unintended consequences](/abstracts/sierra-leones-laws-to-protect-women). *The Conversation*, published January 23, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leones-laws-to-protect-women-have-unintended-consequences-109815).
 - **Schneider, L.** (2019). [Why Sierra Leonean women don’t feel protected by domestic violence laws](/abstracts/why-sierra-leonean-women). *The Conversation*, published January 9, 2019. URL: [theconversation.com](https://theconversation.com/why-sierra-leonean-women-dont-feel-protected-by-domestic-violence-laws-109436).
 - **Schneider, L.** (2018). Can you imagine? Reflections on the SL elections and implications for penal policy and practice, by Andrew Jefferson and Luisa Schneider. *Mats Utas*. Academic Blog. published April 19, 2018. URL: [matsutas.wordpress.com](https://matsutas.wordpress.com/2018/04/19/can-you-imagine-reflections-on-the-sl-elections-and-implications-for-penal-policy-and-practice-by-andrew-jefferson-and-luisa-schneider/).
