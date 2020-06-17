@@ -28,12 +28,18 @@ comments: false
 - **Schneider, L.** (2019). [Why Sierra Leonean women don’t feel protected by domestic violence laws](/abstracts/why-sierra-leonean-women). *The Conversation*, published January 9, 2019. URL: [theconversation.com](https://theconversation.com/why-sierra-leonean-women-dont-feel-protected-by-domestic-violence-laws-109436).
 - **Schneider, L.** (2018). Can you imagine? Reflections on the SL elections and implications for penal policy and practice, by Andrew Jefferson and Luisa Schneider. *Mats Utas*. Academic Blog. published April 19, 2018. URL: [matsutas.wordpress.com](https://matsutas.wordpress.com/2018/04/19/can-you-imagine-reflections-on-the-sl-elections-and-implications-for-penal-policy-and-practice-by-andrew-jefferson-and-luisa-schneider/).
 
+### Television
+- **Schneider, L.** (2020). Leben ohne Privatsphäre: Was Wohnungslose über unsere Gesellschaft aussagen? ARD alpha. Campus Talks. Forschung auf den Punkt gebracht, 16.06.2020.
+
 ### PhD Thesis
 - **Schneider, L.** (2019). Teeth and Tongue Jammed Together, violence in relationships and its mediation in Freetown, Sierra Leone. DPhil thesis. *Oxford University* (embargoed).
 
 ### Interviews (TV, journals, radio)
+- Ilker, Lena and **Schneider, Luisa** (2020). Bewegtbildinterview in der Apothekenumschau, 17.06.2020.
+- Gärtner, Jennifer **Schneider, Luisa** (2020). Zweiteiliges Interview über Dr. Schneider's Forschung und Wohnungslosigkeit in Zeiten von Corona. Grünstreifen, Deutschlandfunk Nova, 13.06.2020.
+- Verschwele, Lina. (2020). Wohnungslose in der Corona-Krise: "Die Ersatzfamilie bricht weg" Wortlautinterview mit Anthropologin **Luisa T. Schneider**. Süddeutsche Zeitung, 09.06.2020. URL: [www.sz.de] (https://www.sueddeutsche.de/wissen/obdachlos-corona-krise-1.4928767)
 - Nagel, Juliane and **Schneider, Luisa** (2020). Wohnungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemic. *YouTube*, Apr 6, 2020 URL: [YouTube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
-- Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28 URL: [mdr.de] (https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html).
+- Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28 URL: [mdr.de] (https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html)
 - Brähler, Barbara (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. Radio. *MDR SACHSEN – das Sachsenradio*, April 2, 2020, 16:50  URL: [MDR/Leipzig](https://www.mdr.de/nachrichten/audio/audio-1361926.html)
  - Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig. based on an interview with **Luisa Schneider** and Tom Hübner. Radio. *MDR AKTUELL*, April 3, 2020.
 - Kühnke, Roland (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. TV. *MDR Sachsenspiegel* April 3, 2020, 19.00-19.30 URL: [MDR Sachsenspiegel](https://www.mdr.de/sachsenspiegel/video-397418_zc-61a459d2_zs-4ccc2d21.html).
@@ -62,6 +68,7 @@ comments: false
 - **Schneider, L.** (2016). Graduate Seminar. 02.03.2016, *St. Peter’s College*, University of Oxford.
 
 ### Selected Conference Presentations
+- **Schneider, L.** (2020). Let me take a holiday from this damned life before it kills me! Rough sleepers longing for prison. 18.06.--19.06.2020, *Carcerality in the Globalised Present: Prison Spaces, Forms and Imaginaries*, University of Amsterdam, Netherlands (online due to the corona pandemic).
 - **Schneider, L.** (2019). We are unhoused, not homeless: conditioning legal agency upon living status hinders effective housing policy and fosters social exclusion in Leipzig, Germany. 27.08--31.08.2019. *European Network for Housing Research Conference*, Athens, Greece.
 - **Schneider, L.** (2019). The Street is My Private Space:Being Without Shelter In Leipzig. 20.08--23.08.2019. *14th European Sociological Association Conference*. Manchester, UK.
 - **Schneider, L.** (2018). Of prisoners who don’t exist and girls who don’t need saving: Sexualized citizenship, confinement, law and justice in Freetown, Sierra Leone. 14.11--18.11.2018 *117th Annual Meeting of the American Anthropological Association*. San Jose, California.
