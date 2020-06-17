@@ -13,20 +13,19 @@ comments: false
 - **Schneider, L.** (2020 forthcoming). Elders and transactional relationships in Sierra Leone: rethinking synchronic approaches. *Africa*, Journal of the International African Institute.
 - **Schneider, L.** (2018). [Partners as Possession: A Qualitative Exploration of Intimate Partner Sexual Violence in Freetown, Sierra Leone](/abstracts/partners-as-possession). *Journal of Aggression, Maltreatment & Trauma*: 1--19. DOI: [10.1080/10926771.2018.150685](https://doi.org/10.1080/10926771.2018.1506854).
 - **Schneider, L.** (2017). [Concomitants of academic anthropology](/abstracts/concomitants). *Paradigmata. Zeitschrift für Menschen und Diskurse* No.14, Frühling 2017. 34--37.
-- **Schneider, L.** (2016). [The ogbanje who wanted to stay: The occult, belonging, family and therapy in Sierra Leone](/abstracts/ogbanje). *Ethnography* 18(2), 133--152. DOI: [10.1177/1466138116673381](https://doi.org/10.1177/1466138116673381).
+- **Schneider, L.** (2016). [The ogbanje who wanted to stay: The occult, belonging, family and therapy in Sierra Leone](/abstracts/ogbanje). *Ethnography* 18(2), 133--152. DOI: [10.1177/1466138116673381](https://doi.org/10.1177/1466138116673381)
 - **Schneider, L.** (2015). [Secret Societies in Sierra Leone](/abstracts/secret-societies). *Paradigmata. Zeitschrift für Menschen und Diskurse* No.12, Frühling 2015. 30--34.
 
 ### Reports
-
-- **Schneider, L.** (2019) Intimität ohne Privatsphäre – das Leben wohnungsloser Menschen in Deutschland. Beiträge des MPI für ethnologische Forschung im Jahrbuch der Max-Planck-Gesellschaft, URL:[Max Planck Institut für ethnologische Forschung] (https://www.eth.mpg.de/5479164/research_report_14311186?c=2923387).
+- **Schneider, L.** (2019) Intimität ohne Privatsphäre – das Leben wohnungsloser Menschen in Deutschland. Beiträge des MPI für ethnologische Forschung im Jahrbuch der Max-Planck-Gesellschaft, URL:[Max Planck Institut für ethnologische Forschung] (https://www.eth.mpg.de/5479164/research_report_14311186?c=2923387)
 
  ### Reviews (peer-reviewed)
-- **Schneider, L.** (2018). Review Scubla, L. Giving life, giving death: psychoanalysis, anthropology, philosophy (Studies in Violence, Mimesis and Culture, translated from the French by M.B. DeBevoise). East Lansing (Michigan): Michigan State University Press 2016. *Journal of the Anthropological Society of Oxford, JASO-Online*. (1), 122--125. URL: [www.anthro.ox.ac.uk/jaso/current-issue](https://www.anthro.ox.ac.uk/jaso/current-issue).
+- **Schneider, L.** (2018). Review Scubla, L. Giving life, giving death: psychoanalysis, anthropology, philosophy (Studies in Violence, Mimesis and Culture, translated from the French by M.B. DeBevoise). East Lansing (Michigan): Michigan State University Press 2016. *Journal of the Anthropological Society of Oxford, JASO-Online*. (1), 122--125. URL: [www.anthro.ox.ac.uk/jaso/current-issue] (https://www.anthro.ox.ac.uk/jaso/current-issue)
 - **Schneider, L.** (2016). [Review. Zeitlyn, D., Just, R., Excursions in realist anthropology: a merological approach, Newcastle: Cambridge Scholars Publishing 2014, x, 156 pp. *Journal of the Anthropological Society of Oxford*](/abstracts/review-just). *JASO-Online*, VIII(1), 119--123. URL: [www.anthro.ox.ac.uk/jasoonline](https://www.anthro.ox.ac.uk/jasoonline-2016#collapse392711)
 
 ### Specialist and Online Publications
 - **Schneider, L.** (2020). They call it social physical distancing: elders, unhoused people and grassroots support in
-Leipzig, Germany. Collecting COVID-19. URL: [Collecting covid-19] (https://anthrocovid.com/2-2/contributions-from-germany/)
+Leipzig, Germany. *Collecting COVID-19*. URL: [Collecting COVID] (https://anthrocovid.com/2-2/contributions-from-germany/)
 - **Schneider, L.** (2020). Imagine You Were Me. On How COVID-19 Affects Vulnerable Groups. *Culture in Quarantine* URL: [cultureinquarantine.com](http://cultureinquarantine.co/archives/imagine-you-were-me-on-how-covid-19-affects-vulnerable-groups/)
 - **Schneider, L.** (2019). Sierra Leone takes welcome leap on rape: but next steps are crucial. *The Conversation*, published February 21, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leone-takes-welcome-leap-on-rape-but-next-steps-are-crucial-112010)
 - **Schneider, L.** (2019). [Sierra Leone's laws to protect women have unintended consequences](/abstracts/sierra-leones-laws-to-protect-women). *The Conversation*, published January 23, 2019. URL: [theconversation.com](https://theconversation.com/sierra-leones-laws-to-protect-women-have-unintended-consequences-109815).
@@ -42,9 +41,9 @@ Leipzig, Germany. Collecting COVID-19. URL: [Collecting covid-19] (https://anthr
 ### Interviews (TV, journals, radio)
 - Ilker, Lena and **Schneider, Luisa** (2020). Bewegtbildinterview in der Apothekenumschau, 17.06.2020.
 - Gärtner, Jennifer **Schneider, Luisa** (2020). Zweiteiliges Interview über Dr. Schneider's Forschung und Wohnungslosigkeit in Zeiten von Corona. Grünstreifen, Deutschlandfunk Nova, 13.06.2020.
-- Verschwele, Lina. (2020). Wohnungslose in der Corona-Krise: "Die Ersatzfamilie bricht weg" Wortlautinterview mit Anthropologin **Luisa T. Schneider**. Süddeutsche Zeitung, 09.06.2020. URL: [www.sz.de] (https://www.sueddeutsche.de/wissen/obdachlos-corona-krise-1.4928767)
+- Verschwele, Lina. (2020). Wohnungslose in der Corona-Krise: "Die Ersatzfamilie bricht weg" Wortlautinterview mit Anthropologin **Luisa T. Schneider**. *Süddeutsche Zeitung*, 09.06.2020. URL: [www.sz.de](https://www.sueddeutsche.de/wissen/obdachlos-corona-krise-1.4928767)
 - Nagel, Juliane and **Schneider, Luisa** (2020). Wohnungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemic. *YouTube*, Apr 6, 2020 URL: [YouTube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
-- Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28 URL: [mdr.de] (https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html)
+- Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig based on an interview with **Luisa Schneider** and Tom Hübner. Article. *MDR SACHSEN*, April 4, 2020, 15:28. URL: [mdr.de] (https://www.mdr.de/sachsen/leipzig/leipzig-leipzig-land/corona-hilfe-obdachlose-leipzig-100.html)
 - Brähler, Barbara (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. Radio. *MDR SACHSEN – das Sachsenradio*, April 2, 2020, 16:50  URL: [MDR/Leipzig](https://www.mdr.de/nachrichten/audio/audio-1361926.html)
  - Brähler, Barbara (2020). Krisenzeiten für Obdachlose in Leipzig. based on an interview with **Luisa Schneider** and Tom Hübner. Radio. *MDR AKTUELL*, April 3, 2020.
 - Kühnke, Roland (2020). Obdachlose in Zeiten des Corona. With interviews with **Luisa Schneider** and other experts. TV. *MDR Sachsenspiegel* April 3, 2020, 19.00-19.30 URL: [MDR Sachsenspiegel](https://www.mdr.de/sachsenspiegel/video-397418_zc-61a459d2_zs-4ccc2d21.html).
