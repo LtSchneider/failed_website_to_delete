@@ -39,7 +39,7 @@ Leipzig, Germany. *Collecting COVID-19*. URL: [www.anthrocovid.com](https://anth
 - **Schneider, L.** (2019). Teeth and Tongue Jammed Together, violence in relationships and its mediation in Freetown, Sierra Leone. DPhil thesis. *Oxford University* (embargoed).
 
 ### Interviews (TV, journals, radio)
-- Ilker, Lena and **Schneider, Luisa** (2020). Bewegtbildinterview in der Apothekenumschau, 17.06.2020. [www.youtube.com] (https://www.youtube.com/watch?v=7eVeVbyQNd4&t=1s)
+- Ilker, Lena and **Schneider, Luisa** (2020). Bewegtbildinterview in der Apothekenumschau, 17.06.2020. URL:[www.youtube.com](https://www.youtube.com/watch?v=7eVeVbyQNd4&t=1s)
 - Gärtner, Jennifer **Schneider, Luisa** (2020). Zweiteiliges Interview über Dr. Schneider's Forschung und Wohnungslosigkeit in Zeiten von Corona. Grünstreifen, Deutschlandfunk Nova, 13.06.2020.
 - Verschwele, Lina. (2020). Wohnungslose in der Corona-Krise: "Die Ersatzfamilie bricht weg" Wortlautinterview mit Anthropologin **Luisa T. Schneider**. *Süddeutsche Zeitung*, 09.06.2020. URL: [www.sz.de](https://www.sueddeutsche.de/wissen/obdachlos-corona-krise-1.4928767)
 - Nagel, Juliane and **Schneider, Luisa** (2020). Wohnungslose sind von der Corona-Krise besonders hart betroffen. Video-Interview between Juliane Nagel, member of parliament in Saxony and **Luisa Schneider** about the situation of people without housing during the corona pandemic. *YouTube*, Apr 6, 2020 URL: [YouTube.com](https://www.youtube.com/watch?v=4b_C8XdVXCI&feature=youtu.bel)
