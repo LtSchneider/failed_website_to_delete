@@ -10,7 +10,7 @@ comments: false
 ### Journal articles (peer-reviewed)
 - **Schneider, L.** (2020). Degrees of permeability: confinement, power and resistance in Freetown's central Prison. *Cambridge Journal of Anthropology*. Vol.38 (1). 88--104 DOI: [https://doi.org/10.3167/cja.2020.380107](https://doi.org/10.3167/cja.2020.380107)
 - **Schneider, L.** (2020). Sexual violence during research: how the unpredictability of fieldwork and the right to risk collides with academic bureaucracy and expectations. *Critique of anthropology*. Online first. DOI: [https://doi.org/10.1177/0308275X20917272](https://doi.org/10.1177/0308275X20917272)
-- **Schneider, L.** (2020). Elders and transactional relationships in Sierra Leone: rethinking synchronic approaches. *Africa*, Journal of the International African Institute. Vol. 90 (4). 701-720 DOI: [https://doi.org/10.1017/S0001972020000285] (https://doi.org/10.1017/S0001972020000285)
+- **Schneider, L.** (2020). Elders and transactional relationships in Sierra Leone: rethinking synchronic approaches. *Africa*, Journal of the International African Institute. Vol. 90 (4). 701-720 DOI:[https://www.cambridge.org/core/journals/africa/article/elders-and-transactional-relationships-in-sierra-leone-rethinking-synchronic-approaches/F239BA038773D013A3128B498DB3DC5D](https://doi.org/10.1017/S0001972020000285)
 - **Schneider, L.** (2018). [Partners as Possession: A Qualitative Exploration of Intimate Partner Sexual Violence in Freetown, Sierra Leone](/abstracts/partners-as-possession). *Journal of Aggression, Maltreatment & Trauma*: 1--19. DOI: [10.1080/10926771.2018.150685](https://doi.org/10.1080/10926771.2018.1506854).
 - **Schneider, L.** (2017). [Concomitants of academic anthropology](/abstracts/concomitants). *Paradigmata. Zeitschrift für Menschen und Diskurse* No.14, Frühling 2017. 34--37.
 - **Schneider, L.** (2016). [The ogbanje who wanted to stay: The occult, belonging, family and therapy in Sierra Leone](/abstracts/ogbanje). *Ethnography* 18(2), 133--152. DOI: [10.1177/1466138116673381](https://doi.org/10.1177/1466138116673381)
@@ -33,7 +33,7 @@ Leipzig, Germany. *Collecting COVID-19*. URL: [www.anthrocovid.com](https://anth
 - **Schneider, L.** (2018). Can you imagine? Reflections on the SL elections and implications for penal policy and practice, by Andrew Jefferson and Luisa Schneider. *Mats Utas*. Academic Blog. published April 19, 2018. URL: [matsutas.wordpress.com](https://matsutas.wordpress.com/2018/04/19/can-you-imagine-reflections-on-the-sl-elections-and-implications-for-penal-policy-and-practice-by-andrew-jefferson-and-luisa-schneider/).
 
 ### Television
-- **Schneider, L.** (2020). Leben ohne Privatsphäre: Was Wohnungslose über unsere Gesellschaft aussagen? ARD alpha. Campus Talks. Forschung auf den Punkt gebracht, 16.06.2020. URL: [https://www.youtube.com/watch?v=qqQ0sNrwH_0](www.youtube.com)
+- **Schneider, L.** (2020). Leben ohne Privatsphäre: Was Wohnungslose über unsere Gesellschaft aussagen? ARD alpha. Campus Talks. Forschung auf den Punkt gebracht, 16.06.2020. URL: [https://www.youtube.com/watch?v=qqQ0sNrwH_0] (www.youtube.com)
 
 ### PhD Thesis
 - **Schneider, L.** (2019). Teeth and Tongue Jammed Together, violence in relationships and its mediation in Freetown, Sierra Leone. DPhil thesis. *Oxford University* (embargoed).
